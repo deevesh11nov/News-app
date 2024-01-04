@@ -1,5 +1,6 @@
 # News Website
 
+## Note: I could not deploy this website because I have to buy a primer key from NewAPI to deploy; otherwise, it runs fine on the VS Code compiler.
 
 
 ## Screenshot
